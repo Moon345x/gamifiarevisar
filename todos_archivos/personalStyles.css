@@ -1,0 +1,43 @@
+/* this a alert post */
+
+.alert {
+    padding: 2px;
+    background-color: white;
+    color:  #f44336;
+    font-size: 14px;
+  }
+  
+  .closebtn {
+    margin-left: 15px;
+    color: rgb(138, 22, 22);
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  /* ------------------------- */
+  .alertB {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .closebtnB {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  .alertB.success {background-color: #4CAF50;}
+  
+
+  
+  .closebtn:hover {
+    color: black;
+  }
