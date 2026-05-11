@@ -1,0 +1,10 @@
+fastapi==0.136.1
+uvicorn[standard]
+sqlmodel
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+python-multipart
+email-validator
+pydantic-settings
+reportlab
